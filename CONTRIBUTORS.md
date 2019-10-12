@@ -18,6 +18,8 @@
 
 -[@wayofDao](https://github.com/wayofDao)
 
+-[@yaohuangguan](https://github.com/yaohuangguan)
+
 -[@Ranacode](https://github.com/Ranacode)
 
 -[@arjunkharbanda](https://github.com/arjunkharbanda)
